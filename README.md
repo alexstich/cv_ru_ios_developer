@@ -59,10 +59,10 @@ Rucode, Екатеринбург, Россия
 
 #### Сертификаты:
 2019.03 - 2019.06 Курс Edx CSMM.101x: Искусственный интеллект (ИИ) от Колумбийского университета.
-https://courses.edx.org/certificates/a627fb7a1025413fbeceba598c6b7e44
+<https://courses.edx.org/certificates/a627fb7a1025413fbeceba598c6b7e44>
 
 2022.11–2022.12 Курс Edx APP2x: Работа с дополненной реальностью (AR) и Интернетом от Университета  Curtis.
-https://courses.edx.org/certificates/c68cb72de65941138d7f553ba091c1dd
+<https://courses.edx.org/certificates/c68cb72de65941138d7f553ba091c1dd>
 
 ### Дополнительная информация:
 
