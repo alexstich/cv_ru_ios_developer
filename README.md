@@ -1,5 +1,3 @@
-# cv_ru_ios_developer
-
 ## Алексей Гребенкин
 
 ### iOS developer
